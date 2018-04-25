@@ -18,3 +18,16 @@ main.py : This is the main python file. This is what you'll need to run if you'r
 	Finally, make sure the preset file is in the same directory as the 'main.py' file
 
 0.preset: This is the default soundboard to be used. It contains a wide variety of soundscapes for Dungeons and Dragons.
+________________________________________________________________
+
+How to get setup:
+1. Install
+	a. Python 3.6 
+	b. pip (A Python package manager)
+	c. VLC media player
+2. Use pip to install these libraries
+	a. python-vlc
+	b. pafy
+	c. youtube-dl
+	d. readchar
+3. 
