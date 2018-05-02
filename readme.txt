@@ -23,11 +23,12 @@ ________________________________________________________________
 How to get setup:
 1. Install
 	a. Python 3.6 
-	b. pip (A Python package manager)
+	b. pip3 (A Python package manager)
 	c. VLC media player
-2. Use pip to install these libraries
+2. Use pip3 to install these libraries
 	a. python-vlc
 	b. pafy
 	c. youtube-dl
 	d. readchar
-3. 
+3. Run the Application with the below command
+	> python3 main.py
